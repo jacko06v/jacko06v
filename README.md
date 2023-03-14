@@ -32,5 +32,5 @@
 ![Jacopo's github stats](https://github-readme-stats.vercel.app/api?username=jacko06v&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacko06v&layout=compact)
 <br><br><br>
-![](https://komarev.com/ghpvc/?jacko06v)
+![](https://komarev.com/ghpvc/?username=jacko06v&style=for-the-badge)
 
