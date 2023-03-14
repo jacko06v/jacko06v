@@ -26,7 +26,7 @@
 - [**Twitter**](https://twitter.com/jahardyx)
 - [**LinkedIn**](https://www.linkedin.com/in/jacopo-mosconi-ba5281179/)
 
-<br><br>
+<br><br><br>
 
 
 ![Jacopo's github stats](https://github-readme-stats.vercel.app/api?username=jacko06v&show_icons=true&theme=radical)
