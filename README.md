@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Jacopo Mosconi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center" width="35">A passionate developer from Italy</h3>
+<br>
 
-<!--
-**jacko06v/jacko06v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <picture><img src = "./media/about_me.gif" width = 50px></picture> **About me**
 
-Here are some ideas to get you started:
+<picture> <img align="right" src="./media/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<br>
+
+- A passionate Self-taught developer
+- Creating cool stuffs on blockchain in my free time
+- Currently learning AI
+- Personal website [link](https://www.jacopomosconi.com)
+- I'm currently working on [**Ethereum**](https://ethereum.org/) and [**Solidity**](https://soliditylang.org/) at [**OVER**](https://overthereality.ai/)
+- I'm open for freelance work, contact me on [**LinkedIn**](https://www.linkedin.com/in/jacopo-mosconi-ba5281179/)
+
+<br><br>
+
+## 📫 How to reach me:
+
+- [**Twitter**](https://twitter.com/jahardyx)
+- [**LinkedIn**](https://www.linkedin.com/in/jacopo-mosconi-ba5281179/)
+
+<br><br>
+
+
+![Jacopo's github stats](https://github-readme-stats.vercel.app/api?username=jacko06v&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacko06v&layout=compact)
+
