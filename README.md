@@ -21,7 +21,24 @@
 
 <br><br>
 
-## 📫 How to reach me:
+## **💻 Skills**
+- Blockchain Development
+- Solidity
+- Web3.js
+- Smart Contracts
+- Ethereum
+- Web Development
+- JavaScript
+- React
+- Node.js
+- PHP
+- C#
+- Python
+- HardHat
+- Ethers.js
+- Svelte.js
+
+## **📫 How to reach me:**
 
 - [**Twitter**](https://twitter.com/jahardyx)
 - [**LinkedIn**](https://www.linkedin.com/in/jacopo-mosconi-ba5281179/)
