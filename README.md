@@ -29,8 +29,8 @@
 <br><br><br>
 
 
-![Jacopo's github stats](https://github-readme-stats.vercel.app/api?username=jacko06v&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacko06v&layout=compact)
+![Jacopo's github stats](https://github-readme-stats.vercel.app/api?username=jacko06v&show_icons=true&bg_color=deg,5f014c,1e0022,003151&ring_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacko06v&layout=compact&bg_color=deg,5f014c,1e0022,003151&ring_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 <br><br><br>
 ![](https://komarev.com/ghpvc/?username=jacko06v&style=for-the-badge)
 
