@@ -15,7 +15,7 @@
 - Passionate blockchain Developer, crypto enthusiast and web3 lover
 - Currently learning AI
 - Personal website [link](https://www.jacopomosconi.it)
-- I'm currently working on [**Ethereum**](https://ethereum.org/) and [**Solidity**](https://soliditylang.org/) at [**OVER**](https://overthereality.ai/)
+- I'm currently working at [**OVER**](https://overthereality.ai/) & [**UOMI**](https://uomi.ai/)
 - I'm open for freelance work, contact me on [**LinkedIn**](https://www.linkedin.com/in/jacopo-mosconi-ba5281179/)
 
 
