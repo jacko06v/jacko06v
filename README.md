@@ -10,8 +10,8 @@
     <a href="https://www.jacopomosconi.it">
         <img src="https://img.shields.io/badge/Website-jacopomosconi.it-FF5757?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
-    <a href="https://twitter.com/jahardyx">
-        <img src="https://img.shields.io/badge/Twitter-@jahardyx-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="https://twitter.com/jacko06v">
+        <img src="https://img.shields.io/badge/Twitter-@jacko06v-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://www.linkedin.com/in/jacopo-mosconi-ba5281179/">
         <img src="https://img.shields.io/badge/LinkedIn-Jacopo_Mosconi-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
