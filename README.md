@@ -86,7 +86,7 @@ Spearheading development of:
 ## 🤝 Let's Connect
 <div align="center">
     <p>Interested in Web3, AR, or AI innovation? Let's collaborate!</p>
-    <a href="https://twitter.com/jahardyx">
+    <a href="https://twitter.com/jacko06v">
         <img src="https://img.shields.io/badge/DM on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/jacopo-mosconi-ba5281179/">
