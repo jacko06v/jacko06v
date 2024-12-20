@@ -19,10 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=jacko06v&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacko06v&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 <br>
 
 ## 🚀 About Me
