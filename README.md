@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Building+The+Future+of+Web3;AR+%26+AI+Innovator" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Building+The+Future+of+Web3;AR+%26+AI+Innovator" />
-        <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Building+The+Future+of+Web3;AR+%26+AI+Innovator" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Founder+of+Synthra;Web3+%26+AI+Infra+Builder" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Founder+of+Synthra;Web3+%26+AI+Infra+Builder" />
+        <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com/?font=Inter&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Jacopo+Mosconi;Blockchain+Lead+Developer;Founder+of+Synthra;Web3+%26+AI+Infra+Builder" />
     </picture>
 </div>
 
@@ -23,58 +23,64 @@
 
 ## 🚀 About Me
 
-> Blockchain Lead Developer passionate about merging Web3, AR, and AI technologies to build the future of digital experiences.
+> Blockchain Lead Developer & Founder — building the next generation of decentralized infrastructure at the intersection of Web3, Physical AI, and immersive digital experiences.
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 🎯 Current Roles
 
 #### Blockchain Lead at [OVER](https://overthereality.ai/)
-Driving blockchain innovation for the world's leading Physical AI platform, focused on building the largest decentralized 3D map through:
-- 🌐 A global network of mappers rewarded with OVR Tokens via a DePIN framework
-- 📍 150K+ mapped locations and 60M+ images powering the most extensive 3D dataset worldwide
-- 🧠 Data infrastructure for training Vision Foundation Models and enabling Visual Positioning Systems
-- 🕶️ Enabling AI-driven XR experiences and decentralized content publishing
-- 🔗 Bridging physical and digital worlds with scalable Web3 infrastructure
+Leading blockchain development at OVER — a Physical AI and data infrastructure platform creating the world's most comprehensive decentralized 3D map:
+- 🧠 Generating proprietary datasets to train Vision Foundation Models and enable Visual Positioning Systems
+- 🌍 Coordinating a global mapping community via DePIN and token incentives
+- 📡 Supporting immersive XR, geo-localized AR, and spatial computing
+- 🔗 Bridging physical environments with on-chain protocols and Web3 access layers
 
 #### Blockchain Lead at [UOMI](https://uomi.ai/)
-Spearheading development of:
-- ⚡ L1 blockchain for autonomous AI agents
-- 🤖 Cross-chain asset management systems
-- 💹 DeFi and NFT automated curation
-- 🔄 Multi-chain interoperability solutions
+Driving the architecture behind UOMI — a fully EVM-compatible Layer 1 designed to support decentralized AI agents and trustless computation:
+- ⚙️ Optimized execution layer for smart agents and modular AI workflows
+- 💠 Deep interoperability with EVM tooling and major wallet providers
+- 💹 Embedded primitives for DeFi, NFTs, and cross-chain protocols
+- 🌐 Focused on both scalable infrastructure and user-first dApp design
+
+#### Founder of [Synthra](https://synthra.org/)
+Synthra is a next-generation decentralized exchange and financial data platform:
+- 💱 Built to support high-efficiency swaps, real-time analytics, and dynamic liquidity
+- 📊 Integrated dashboards and performance tracking tools
+- 🧠 Engineered for precision, transparency, and advanced Web3 UX
+- 🏗️ Synthra is a modular stack evolving toward full multi-chain compatibility
 
 ### 🛠️ Core Expertise
-- 🔗 Smart Contract Architecture & Development
-- 🌐 Web3 Infrastructure Design
-- 🤖 AI/Blockchain Integration
-- 🎮 AR/VR dApp Development
-- 💼 Cross-chain Solutions
+- 🔗 Smart Contract Architecture & DeFi Systems
+- 🌍 Web3 & EVM Infrastructure
+- 🧠 AI & Blockchain Synergies
+- 🌐 Multi-chain dApp Development
+- 🎮 XR & AR-enabled Web3 Experiences
 
 ## 💻 Tech Stack
 
 ```javascript
 {
-    "blockchain": {
-        "languages": ["Solidity", "Rust", "Go"],
-        "frameworks": ["HardHat", "OpenZeppelin", "Chainlink", "Substrate", "CosmosSDK"],
-        "libraries": ["Ethers.js", "Web3.js"],
-        "storage": ["IPFS"]
-    },
-    "web": {
-        "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
-        "frontend": ["React", "Svelte.js", "Next.js"],
-        "backend": ["Node.js", "Python", "PHP", "MySQL"]
-    },
-    "ar_ai": {
-        "ar": ["WebAR", "Geolocation", "3D Mapping"],
-        "ai": ["TensorFlow", "PyTorch", "Vllm", "Ollama"]
-    },
-    "tools": {
-        "package_managers": ["NPM", "Yarn"],
-        "dev_ops": ["Git", "Docker", "AWS"],
-        "storage": ["IPFS"]
-    }
+  "blockchain": {
+    "languages": ["Solidity", "Rust", "Go"],
+    "frameworks": ["HardHat", "OpenZeppelin", "Chainlink", "Substrate", "CosmosSDK"],
+    "libraries": ["Ethers.js", "Web3.js"],
+    "storage": ["IPFS"]
+  },
+  "web": {
+    "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
+    "frontend": ["React", "Svelte.js", "Next.js"],
+    "backend": ["Node.js", "Python", "PHP", "MySQL"]
+  },
+  "ar_ai": {
+    "ar": ["WebAR", "Geolocation", "3D Mapping"],
+    "ai": ["TensorFlow", "PyTorch", "Vllm", "Ollama"]
+  },
+  "tools": {
+    "package_managers": ["NPM", "Yarn"],
+    "dev_ops": ["Git", "Docker", "AWS"],
+    "storage": ["IPFS"]
+  }
 }
 ```
 
@@ -86,7 +92,7 @@ Spearheading development of:
 
 ## 🤝 Let's Connect
 <div align="center">
-    <p>Interested in Web3, AR, or AI innovation? Let's collaborate!</p>
+    <p>Interested in Web3, AI, or Physical Infrastructure? Let’s build something great together.</p>
     <a href="https://twitter.com/jacko06v">
         <img src="https://img.shields.io/badge/DM on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
@@ -96,5 +102,5 @@ Spearheading development of:
 </div>
 
 <div align="center">
-    <p><i>⚡ Building the convergence of Web3, AR, and AI, one innovation at a time ⚡</i></p>
+    <p><i>⚡ Bridging AI, Web3, and Spatial Computing into the real world ⚡</i></p>
 </div>
