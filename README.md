@@ -30,11 +30,12 @@
 ### 🎯 Current Roles
 
 #### Blockchain Lead at [OVER](https://overthereality.ai/)
-Leading blockchain development for a revolutionary Web3 Spatial Computing platform that:
-- 🌍 Creates immersive AR experiences through geo-localized NFTs (OVRLands)
-- 🗺️ Pioneers Map2Earn™ program with over 28,000 OVRMaps
-- 🔗 Bridges physical and digital realities through Web3 technology
-- 🚀 Serves 1.2M+ users with 870,000+ OVRLands sold
+Driving blockchain innovation for the world's leading Physical AI platform, focused on building the largest decentralized 3D map through:
+- 🌐 A global network of mappers rewarded with OVR Tokens via a DePIN framework
+- 📍 150K+ mapped locations and 60M+ images powering the most extensive 3D dataset worldwide
+- 🧠 Data infrastructure for training Vision Foundation Models and enabling Visual Positioning Systems
+- 🕶️ Enabling AI-driven XR experiences and decentralized content publishing
+- 🔗 Bridging physical and digital worlds with scalable Web3 infrastructure
 
 #### Blockchain Lead at [UOMI](https://uomi.ai/)
 Spearheading development of:
